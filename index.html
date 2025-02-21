@@ -11,20 +11,21 @@
         <h1 id="titolo1"></h1>
         <div id="contenitore">
             <img id="immagine1" height="200px" >
-            <iframe id="video1" width="300" height="200" src="" frameborder="0" allowfullscreen></iframe>
+            <iframe width="300" height="200" id="video1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-
-        <button id="info1" onclick="funzioneInfo(1)">INFO</button>
+        <div id="bottoni">
+            <button id="info1" onclick="funzioneInfo(1)">INFO</button>
+            <button id="play1" onclick="riproduci(1)">PLAY</button>
+        </div>
         <p id="pInfo1"></p>
-        <button id="play1" onclick="riproduci(1)">PLAY</button>
-        
     </div>
     
     <div id="Canzoni">
         <h1 id="titolo2"></h1>
         <div id="contenitore">
             <img id="immagine2" height="200px" >
-            <iframe id="video2" width="300" height="200" src="" frameborder="0" allowfullscreen></iframe>
+            <iframe id="video2" width="300" height="200" src="" frameborder="0" allowfullscreen referrerpolicy="origin"></iframe>
+        
         </div>
 
         <button id="info2" onclick="funzioneInfo(2)">INFO</button>
@@ -36,7 +37,7 @@
         <h1 id="titolo3"></h1>
         <div id="contenitore">
             <img id="immagine3" height="200px" >
-            <iframe id="video3" width="300" height="200" src="" frameborder="0" allowfullscreen></iframe>
+            <iframe id="video3" width="300" height="200"  frameborder="0" allowfullscreen referrerpolicy="origin"></iframe>
         </div>
 
         <button id="info3" onclick="funzioneInfo(3)">INFO</button>

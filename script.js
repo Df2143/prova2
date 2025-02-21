@@ -3,14 +3,14 @@ const canzone1={
     informazioni: "Brano di Domenico Modugno",
     immagineCopertina: "immagini/nelBluDipintoDiBluImm.jpg",
     audioCanzone: "audio/Volare.mp3",
-    linkVideo: "https://www.youtube.com/watch?v=6jWsIpAbo-8"    
+    linkVideo: "https://www.youtube-nocookie.com/embed/6jWsIpAbo-8?si=RQ5Lk9uoPKpSZWj-"    
 }
 const canzone2={
     titolo: "Apartment 402",
     informazioni: "Brano del 2021, autore: girl in red",
     immagineCopertina: "immagini/apartment402.jpg",
     audioCanzone: "audio/Apartment402.mp3",
-    linkVideo: "https://www.youtube.com/watch?v=eIdD-fq7BGE"    
+    linkVideo: "https://www.youtube-nocookie.com/embed/eIdD-fq7BGE?si=X-AgELHp5CT83cQn"    
 }
 
 const canzone3={
@@ -18,7 +18,7 @@ const canzone3={
     informazioni: "Brano di The Weeknd",
     immagineCopertina: "immagini/saveyourtears.jpg",
     audioCanzone: "audio/saveyourtears.mp3",
-    linkVideo: "https://www.youtube.com/watch?v=XXYlFuWEuKI"    
+    linkVideo: "https://www.youtube-nocookie.com/embed/XXYlFuWEuKI?si=SyBrVIhIYyiDb8mS"    
 }
 
 
